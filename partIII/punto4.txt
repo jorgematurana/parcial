@@ -1,0 +1,2 @@
+GRANT DBA TO amartinez;
+GRANT CONNECT TO amartinez;
