@@ -1,5 +1,5 @@
 create tablespace RENTING_COLOMBIA datafile 'renting.dbf' size 150m
-autoextend on maxsize 100m
+autoextend on maxsize 200m
 extent management local
 segment space management auto
 online;
